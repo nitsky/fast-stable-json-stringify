@@ -1,0 +1,27 @@
+{
+	"author": "David Yamnitsky",
+	"license": "MIT",
+	"main": "dist/index.js",
+	"name": "fast-stable-json-stringify",
+	"repository": "https://github.com/nitsky/fast-stable-json-stringify",
+	"scripts": {
+		"build": "tsc",
+		"bench": "tsc && node ./bench",
+		"test": "jest"
+	},
+	"types": "dist/index.d.ts",
+	"version": "1.0.0",
+	"devDependencies": {
+		"@types/jest": "^23.3.10",
+		"@types/node": "^10.12.12",
+		"benchmark": "^2.1.4",
+		"fast-json-stable-stringify": "*",
+		"fast-stable-stringify": "*",
+		"faster-stable-stringify": "*",
+		"fastest-stable-stringify": "*",
+		"jest": "^23.6.0",
+		"json-stable-stringify": "*",
+		"ts-jest": "^23.10.5",
+		"typescript": "^3.2.2"
+	}
+}
