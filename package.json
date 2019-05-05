@@ -1,5 +1,6 @@
 {
 	"author": "David Yamnitsky",
+	"files": ["dist/**/*"],
 	"license": "MIT",
 	"main": "dist/index.js",
 	"name": "fast-stable-json-stringify",
