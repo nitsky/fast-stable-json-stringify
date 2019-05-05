@@ -12,16 +12,16 @@
 	"types": "dist/index.d.ts",
 	"version": "1.0.0",
 	"devDependencies": {
-		"@types/jest": "^23.3.10",
-		"@types/node": "^10.12.12",
+		"@types/jest": "^24.0.12",
+		"@types/node": "^12.0.0",
 		"benchmark": "^2.1.4",
 		"fast-json-stable-stringify": "*",
 		"fast-stable-stringify": "*",
 		"faster-stable-stringify": "*",
 		"fastest-stable-stringify": "*",
-		"jest": "^23.6.0",
+		"jest": "^24.8.0",
 		"json-stable-stringify": "*",
-		"ts-jest": "^23.10.5",
-		"typescript": "^3.2.2"
+		"ts-jest": "^24.0.2",
+		"typescript": "^3.4.5"
 	}
 }
